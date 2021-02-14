@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Gaussian random numbers/out/
+/Problems/Gaussian random numbers/out/production/classes/
+/Problems/The forgotten comments/out/
+/Problems/The forgotten comments/out/production/classes/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
